@@ -1,0 +1,385 @@
+id,name,ragam,talam,type,language
+1,āj āyē,1,1,1,1
+2,āj unīndē,2,2,2,1
+3,ānandavalli,3,3,3,2
+4,āndoḷikā vāhanē,4,4,4,4
+5,āñjanēya,5,3,3,2
+6,ārādhayāmi,6,4,3,2
+7,āyē giridhar,7,3,1,1
+8,abadh sukhadāyī,8,3,1,1
+9,ab tō bairāgin,9,3,5,1
+10,adrisutāvara,10,3,3,2
+11,ahaha naiva janē,1,5,6,2
+12,ahō citta,11,4,3,2
+13,alam anagha,12,6,7,2
+14,alarśaraparitāpaṃ,13,4,7,4
+15,āli mē tō jamunā,14,3,5,1
+16,Aliveni yentucheyvu,15,7,7,4
+17,Amunabhoomidevena,16,3,6,2
+18,Anaamilo mahaboob,6,3,1,1
+19,Atthaliyanneedunnu,17,7,7,4
+20,Ayi sakhi tapam,18,7,7,4
+21,Ayyayyo kintu,19,7,7,4
+22,Baajat murali,20,8,8,1
+23,Baalike moham,4,3,7,4
+24,Bajat badhayi,21,3,8,1
+25,Bansi baalee,22,3,1,1
+26,Bhaasurangi baale,5,7,7,4
+27,Bhaavayaaminanda,23,5,3,2
+28,Bhaavayaami raghuraamam,24,3,3,2
+29,Bhaavayegopaalam,25,5,3,2
+30,Bhaavaye padmanaabham,26,3,3,2
+31,Bhaavaye saarasanaabham,27,3,3,2
+32,Bhaavaye śrīgopaalam,28,5,3,2
+33,Bhaavaye śrījaanaki,29,3,3,2
+34,Bhagavan samayoyam,30,3,3,2
+35,Bhai lo piya,13,3,1,1
+36,Bhajabhajamaanasa,31,3,6,2
+37,Bhajasi na kim,1,3,6,2
+38,Bhakta paarayana,11,4,3,2
+39,Bharati maamava,32,3,3,2
+40,Bhavadiya katha,7,3,3,2
+41,Bhavati visvaaso,33,7,3,2
+42,Bho chinthayami,7,6,3,2
+43,Bhogindrasaayinam,34,6,3,2
+44,Bhujagasaayinonaama,35,5,6,2
+45,Braj ki chabi,36,2,1,1
+46,Chaaru pankaja,37,3,3,2
+47,Chalamela,11,1,9,5
+48,Chaliye kunjana mo,38,9,2,1
+49,Chapala sampadaniha,7,7,9,2
+50,Chentaarsaayakaroopa,36,6,7,4
+51,Chintayaami te,7,3,3,2
+52,Chinthaye padmanaabham,22,4,3,2
+53,Daani saamajendra,32,3,9,2
+54,Devadevajagadisvara,39,3,3,2
+55,Devadevakalayaami,40,5,3,2
+56,Deva deva kalpayaami,19,5,3,2
+57,Deva deva maam paala,32,4,3,2
+58,Devaki suta paahimaam,26,3,3,2
+59,Deva maamayi,41,4,3,2
+60,Devana ke pathi,42,2,2,1
+61,Deva Paalaya Muraare,30,3,3,2
+62,Devi Giri Kanye,18,3,3,2
+63,Devi jagajjanani,11,3,3,2
+64,Devi paavane,5,3,3,2
+65,Dhanyayaayi njan,43,6,7,4
+66,Dhanyoyam evakhalu,44,4,3,2
+67,Dhim dhim dhim,4,NaN,10,NaN
+68,Dhim dhim tada,14,3,10,NaN
+69,Dhyayami śrī,26,6,3,2
+70,Dinamanu hridi,45,3,3,2
+71,Enaner mizhi,46,7,7,4
+72,Entahamiha sakhi,35,7,7,4
+73,Entu cheyyavu,18,5,7,4
+74,Entu mama sadanathil,10,3,7,4
+75,Eri aliri gori,36,3,1,1
+76,Gaangeya vasana,16,3,3,2
+77,Gangadhara dritha,32,5,6,2
+78,Gopala Bhakthim Dehi,112,3,NaN,2
+79,Gapalakapaahimam,47,4,3,2
+80,Gaphil bhai lo,48,3,1,1
+81,Gidhu nadiku taka dhim,49,3,10,1
+82,Gopaalam seveha,6,5,3,2
+83,Gopa nandana,50,3,3,2
+84,Gori mat maro,48,3,5,1
+85,Haa hanta santaapam,3,7,7,4
+86,Haa hanta vanchitaham,51,3,9,2
+87,Hanta jeeva nayakan,3,6,7,4
+88,Hanta njan entu,52,5,7,4
+89,Hanta njan innu,53,3,7,4
+90,Harasi mudha kimu,54,3,3,2
+91,Hara svedam kuru modam,55,10,NaN,2
+92,Hema bhaasuraangan,35,6,7,4
+93,Hemopameyaangi,5,7,7,2
+94,Idu saahasamulu,56,3,7,5
+95,Ila mari maan nayane,36,3,7,4
+96,Indal iha valarunnu,13,7,7,4
+97,Indiraa pathi,43,6,4,4
+98,Indu mukhi,11,1,9,4
+99,Innu mama bhaagyataru,37,6,7,4
+100,Inta modiyalara,37,7,7,5
+101,Ipparitaapam,45,4,7,4
+102,Jagadisa panchasara,19,3,3,2
+103,Jagadisa sada,57,3,3,2
+104,Jagadisa śrījane,58,7,9,2
+105,Jagadisa śrīramana,59,3,3,2
+106,Jagathi naayakam,14,3,3,2
+107,Jaladhi suta ramanena,36,3,6,2
+108,Jalajanaabhamaamava,41,4,3,2
+109,Jamuna kinare,51,2,2,1
+110,Janani maamava,7,4,3,2
+111,Janani paahi sada,58,4,3,2
+112,Japatha Japatha,32,11,3,2
+113,Javo mat thum,8,3,6,2
+114,Jaya devaki kisora,60,6,3,2
+115,Jaya jagadisa,1,3,3,2
+116,Jayajayapadmanaabha,61,3,3,2
+117,Jayajayapadmanaabha,62,3,3,2
+118,Jaya jaya raghuraama,17,4,3,2
+119,Jaya jaya rama ramana,63,6,3,2
+120,Jaya suganaalaya,6,3,3,2
+121,Jay jay devi,1,3,8,1
+122,Kaama janaka,64,3,3,2
+123,Kaanha ne bajayi,48,3,1,1
+124,Kaantanotu chennu,3,5,7,4
+125,Kaantha thava pizha,65,3,7,4
+126,Kaaranam vina kaaryam,37,4,3,2
+127,Kala kanti,3,4,7,2
+128,Kalamozhi mama,30,7,7,4
+129,Kalayaami nanda,66,4,3,2
+130,Kalayaamiraghuraamam,67,4,3,2
+131,Kalayaami śrīraamam,51,5,3,2
+132,Kalaye devadevam,68,6,3,2
+133,Kalaye paarvathinaatham,11,4,3,2
+134,Kalaye śrī kamala nayana,48,5,3,2
+135,Kalyaani khalu,24,5,11,2
+136,Kamala jaasya hrita,24,3,3,2
+137,Kamala nayana,69,3,3,2
+138,Kaminiha njan,3,7,7,4
+139,Kamini mani,70,3,7,4
+140,Kanakamayamaayitum,18,3,4,4
+141,Kanatha soka vaaridhi,69,3,7,4
+142,Kanha kab khar,36,3,1,1
+143,Kanjanaabha dayaya,71,3,3,2
+144,Karunakara,67,5,3,2
+145,Karunanidhan,16,2,2,1
+146,Khinnatha puntethra,7,7,7,4
+147,Kintucheyvunjaan,10,3,7,4
+148,Kosalendra maamava,26,3,3,2
+149,Kripaa kataaksham,22,6,3,2
+150,Kripaya paalaya,72,4,3,2
+151,Krishnachandraraadha,7,3,8,1
+152,Krishna karuna kada,4,3,3,2
+153,Kulirmati vadane,51,7,7,4
+154,Kutilam asatim,48,8,12,2
+155,Maadhava loka nam,73,3,6,2
+156,Maam avaaśrīta,74,3,3,2
+157,Maamavajagadisvara,75,3,3,2
+158,Maamava karunaya,76,4,3,2
+159,Maamavanantha,77,4,3,2
+160,Maamava padmanaabha,78,4,3,2
+161,Maamava sada janani,79,5,3,2
+162,Maamava sada varade,57,5,3,2
+163,Maanini vaamata,4,6,7,4
+164,Maatanga thanayaayai,53,3,3,2
+165,Madhavam akalaye,48,3,3,2
+166,Mahipale pyaare,14,2,2,1
+167,Manasapi bata,80,7,7,4
+168,Manasi dussham,46,1,7,4
+169,Manasi karuna,37,7,7,4
+170,Manasi madana taapam,13,3,7,4
+171,Mandara dhara,32,7,3,2
+172,Mei tho nahi jaavum,36,3,1,1
+173,Miliye shyaam pyaare,9,3,2,1
+174,22 ayi thava,35,4,3,2
+175,22 thava,22,3,3,2
+176,Mudhaiva yatani,7,8,12,2
+177,Naache raghunaath,51,8,1,1
+178,N3ri thillaana,10,7,10,NaN
+179,Naagasayananaam,53,3,4,4
+180,Naamasudhaamayi,37,3,12,2
+181,Nanamakhilesa,36,3,12,2
+182,Nanda nandana,51,2,2,1
+183,Nanda suta,15,6,3,2
+184,Narasimhamaamava,81,4,3,2
+185,Neelappurinkuzhalaale,35,5,4,4
+186,Neethi hathahitha,82,3,3,2
+187,Nithyamaasraye,12,11,3,2
+188,Nrithyathi nrithyathi,11,3,3,2
+189,Paahi jagajjanani,52,3,3,2
+190,Paahi jagajjanani,83,3,3,2
+191,Paahijananisanthatam,57,4,3,2
+192,Paahi maam anisam,56,3,3,2
+193,Paahi maam ayi,63,3,3,2
+194,Paahi maam śrīpadmanaabha,5,5,3,2
+195,Paahi maam śrīvagees,10,3,3,2
+196,Paahi padmanaabha,6,3,3,2
+197,Paahi pankajanaabha,30,3,3,2
+198,Paahi Pankaja nayna,18,3,3,2
+199,Paahiparvatanandini,81,3,3,2
+200,Paahi saarasanaabha,6,4,3,2
+201,Paahi sada padma,33,6,3,2
+202,Paahi saure,60,5,3,2
+203,Paahi śrīpate,84,3,3,2
+204,Paahi tarakshupuraalaya,85,3,3,2
+205,Paahi tarakshupura,4,3,3,2
+206,Paalaya anavaratham,86,10,3,2
+207,Paalaya devadeva,7,4,3,2
+208,Paalaya maadhava,30,3,3,2
+209,Paalayamaamayibho,9,3,3,2
+210,Paalayamamdeva,87,3,9,2
+211,Palaya Maam,58,5,3,2
+212,Paalaya pankajanaabha,69,3,3,2
+213,Paalaya raghunaayaka,71,4,3,2
+214,Paalaya sadaa,88,3,3,2
+215,Paalaya śrīpadmanaabha,33,4,3,2
+216,Paarvati naayaka,47,3,3,2
+217,Paavanasuguna,4,3,9,2
+218,Padasaa nati,37,4,3,2
+219,Padmanaabha paahi,81,3,3,2
+220,Padmanaabha paahi,89,NaN,3,2
+221,Padmanaabha palitebha,90,5,3,2
+222,Panchabaana dharahara,39,3,3,2
+223,Panchabananan tannudaya,37,3,7,4
+224,Pancha sayaka janakan,3,3,4,4
+225,Pankajaakshanaam,32,5,4,4
+226,Pankajaaksha tava sevam,32,5,3,2
+227,Pankaja lochana,10,3,3,2
+228,Pankajanaabhothsava,22,4,4,4
+229,Pannaga shayana,91,4,3,2
+230,Pannagendra shaya,46,3,3,2
+231,Pannagendra shayana,24,5,7,2
+232,Paramaakulahridyam,45,5,9,2
+233,Paramaananda natana,92,3,3,2
+234,Paramaatmaiva,93,NaN,NaN,2
+235,Parama bhadrakara,94,3,3,2
+236,Paramapurushajagade,95,3,3,2
+237,Parama purusham,96,6,3,2
+238,Parama purusha nanu,46,4,3,2
+239,Paripaahiiganaadhipa,5,3,3,2
+240,Pari paahii mamayi,10,4,3,2
+241,Pari paahii mam nrihare,22,5,3,2
+242,Pari paalaya maam,12,5,3,2
+243,Paripalayasaraseruh,1,5,3,2
+244,Pari paalaya saraseeruha,53,3,3,2
+245,Poonthen nermozhi,4,3,7,4
+246,Poorna chandraananam,37,3,6,2
+247,Praana naayaka maam,37,3,7,2
+248,Raajivaksha baaro,11,3,3,3
+249,Raama chandra paahi,87,5,3,2
+250,Raama chandra prabhu,31,3,8,1
+251,Raama natajana,67,10,3,2
+252,Raama Paripaalaya,41,3,3,2
+253,Raama raama guna kusuma,7,3,3,2
+254,Raama raama guna,97,3,3,2
+255,Raama raama paahi,63,5,3,2
+256,Raama raama paahi,47,5,3,2
+257,Raama vakhila,67,7,9,2
+258,Raasavilaasa,37,3,3,2
+259,Raghukula tilakam,7,3,3,2
+260,Rajani jaata,13,5,7,2
+261,Ramaa pathe,7,3,3,2
+262,Ramyanayoru purushan,92,3,7,4
+263,Reena madaadrisssstha,23,3,3,2
+264,Reena madaanuta,36,3,3,2
+265,"Sa, Ni,Dha,Pa Ma Pa Dha Ma",9,5,13,NaN
+266,"Sa, Ni Dha Pa Ga Ma, Pa",10,7,13,NaN
+267,"Sa, Ni Dha Pa Pa Dha Ma",37,7,13,NaN
+268,"Sa, Ni Sa Ri Sa",24,7,13,NaN
+269,"Sa, Sa,Ri Sa Ni Dha Pa",11,5,13,NaN
+270,"Sa, Sa Ni dha,Pa Ma Pa Ga",65,5,13,NaN
+271,"Sa, Sa Ni dha Pa Ma Ga",32,3,13,NaN
+272,Saadaramava,13,3,3,2
+273,Saadaramava,98,3,3,2
+274,Saadaramiha,26,3,9,2
+275,Saadhu jane,65,5,7,2
+276,Saadhu tada nija,32,3,6,2
+277,Saadhu vibhatam,47,3,9,2
+278,Saahasikadanujahara,58,5,3,2
+279,Saamajendra,47,3,3,2
+280,Saami ninne,35,3,9,5
+281,Saamini pondu,11,7,7,5
+282,Saamodam chintayaami,99,4,3,2
+283,Saamodam kalayaami,32,3,3,2
+284,Saamodam paripaalaya,100,NaN,3,2
+285,Saanandam,24,3,11,2
+286,Saa Paramavivasa,69,3,9,2
+287,Saarada vidhu vadana,11,3,7,4
+288,Saaramaina,36,6,7,5
+289,Saarasaaksha pari paalaya,53,3,3,2
+290,Saara saayata,65,3,3,2
+291,Saarasa bhava sevita,11,3,3,2
+292,Saarasa dala,21,12,3,2
+293,Saarasa lochana,10,5,3,2
+294,Saarasa mridu pada,37,3,9,2
+295,Saarasa mridu vachana,5,3,3,2
+296,Saa rasa mukha,26,3,3,2
+297,Saarasa naabha me,11,7,7,2
+298,Saarasa sama mridu,101,3,3,2
+299,Saarasa sama mukha,9,3,3,2
+300,Saarasa shara sundara,3,3,9,2
+301,Saarasa suvadana,10,3,3,2
+302,Saa vaama rooksha,9,3,9,2
+303,Saavaro tere murali,91,2,3,2
+304,5ha thanuja,5,3,9,2
+305,Sakhi he nee gamikka,11,7,7,4
+306,Sambho sathatham,102,3,3,2
+307,Sanda darsa,51,5,6,2
+308,Sankara sree giri,52,3,8,1
+309,Santhatham bhajaami,6,4,3,2
+310,Saradindu sumukha,37,4,4,4
+311,Sarasija naabha kim,65,3,9,2
+312,Sarasija naabha muraare,32,4,3,2
+313,Sarasija naabha muraar,40,3,9,2
+314,Sarasija naabha nin,45,4,4,4
+315,Sarasija nabha ninu,37,1,9,5
+316,Sarasiruha naabham,103,6,3,2
+317,Sarasiruha naabha maam,92,4,3,2
+318,Saridisavasa,32,7,9,2
+319,Sarojanaabha,104,3,3,2
+320,Saroruhaasana jaaye,53,3,3,2
+321,Satatam thaavaka,105,3,3,2
+322,Sathatham samsmaraani,3,4,3,2
+323,Satura kaamini,10,3,9,2
+324,Saure vitara kusalam,88,3,3,2
+325,Sa vaama rusha,9,3,9,2
+326,Seesa ganga bhasma anga,49,2,8,1
+327,Seve nandanandanam,43,4,3,2
+328,Seve śrīkaantham,106,3,3,2
+329,Seve śrīpadmanaabham,22,6,3,2
+330,Seve syaananduresvara,10,3,3,2
+331,Sibika yil,107,5,4,4
+332,Smaradinu maam,36,4,6,2
+333,Smara hari paadaravindam,108,3,3,2
+334,Smara janaka,36,4,3,2
+335,Smara maanasa,88,5,3,2
+336,Smara sada maanasa,6,3,3,2
+337,Smarasi pura,8,3,3,2
+338,Sohanisvarupa,24,2,2,1
+339,Somopamanana,NaN,NaN,7,2
+340,Somopama vadane,35,7,7,2
+341,Sooma saayaka,8,5,9,2
+342,Sree maadhavamanu,8,11,3,2
+343,Sreesa padmanaabha,9,10,3,2
+344,śrī kumaara nagaraalay,65,3,3,2
+345,śrī padmanaabha,26,7,3,2
+346,śrī raamachandra,18,3,3,2
+347,śrī raamachandra,32,3,3,2
+348,śrī ramana vibho,81,3,3,2
+349,Sudati cholka nee,45,7,7,4
+350,Sumarana kar,65,3,8,1
+351,Suma saranayi,37,1,7,4
+352,Sumukhi ninnul taapa,56,3,7,4
+353,Sumukhi sukhamode,45,3,7,4
+354,Sundaraanga kaantha,32,5,7,4
+355,Suno Sakhi meri,36,3,1,1
+356,Syaananduresan,15,4,4,4
+357,Tavaka naamani,41,6,3,2
+358,Tavaka padaambuja,13,4,3,2
+359,Teliviyalum mukham,28,4,7,4
+360,Tellu polum kripa,15,4,7,4
+361,Thaam thaam nam,47,3,10,NaN
+362,Thaapa shamanam,109,5,3,2
+363,Tharuni njaan entu chvu,94,7,7,4
+364,Udho suniye,14,2,1,1
+365,Vaarija vadana,4,3,3,2
+366,Valapu taala,65,7,7,5
+367,Valayunniha,78,5,7,4
+368,Vanajaaksha,5,1,9,5
+369,Vanajaaksham chinthaye,26,3,3,2
+370,Vande devadeva,67,5,3,2
+371,Vande maheswaram,81,4,3,2
+372,Vande sada padmanaa,91,4,3,2
+373,Vandesadapadmanaabh,110,3,3,2
+374,Varayamasurami,46,1,12,2
+375,Vasundhara Thanayaa,7,3,3,2
+376,Viditam te nisavrittam,13,6,7,2
+377,Viharamaanasaraame,8,4,3,2
+378,Vihara maanasa sada,111,4,3,2
+379,Vimala kamala dala,3,3,3,2
+380,Vimukhata tava,6,3,3,2
+381,Vipinam asau,1,8,12,2
+382,Visveswara darshan,31,8,8,1
+383,Yentana vedinaga,43,7,9,5
+384,Yojaya pada nalinena,10,4,3,2
