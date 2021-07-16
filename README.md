@@ -1,12 +1,12 @@
 # Swati Tirunal Corpus
-(WIP) Dataset of Swati Tirunal's compositions with standard translations and metadata.
+(WIP) Dataset of Swati Tirunal's compositions with standard romanization and metadata.
 
 ## Table of Contents
 
 - [Swati Tirunal Corpus](#swati-tirunal-corpus)
   * [Romanization Approach](#romanization-approach)
   * [Directory Structure](#directory-structure)
-  * [Data Structure](#structure)
+  * [Data Structure](#data-structure)
     + [Sample Source File](#sample-source-file)
     + [Sample Dataset Item](#sample-dataset-item)
   * [Sources](#sources)
