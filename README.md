@@ -16,7 +16,7 @@
 
 In general the **sandhis** and formatting of text from the site has been preserved except for where it contradicts the material in the books referenced (see sources below with markers and can be reconstructed from the dataset. The transliteration scheme adopted is ALA-LC. Conjunct consonants in Malayalam are transliterated according to their constituent letters. For example:
 
-- കലശോത്ഭവാമ്പിത​ -> kalaśōdbhavāmpita
+- കലശോദ്ഭവാമ്പിത -> kalaśōdbhavāmpita
 - കൊണ്ടന്നെ -> koṇṭanne
 
 but
