@@ -6,6 +6,7 @@ output_file = "./corpus.json"
 
 template = {
 	"meta": {
+		"id": "",
 		"name": "",
 		"type": "",
 		"language": "",
@@ -41,6 +42,7 @@ with open('../meta/index.csv', 'r') as indf:
 			current_template['meta']['name'] = composition[1]
 			for n, metafield in enumerate(meta_fields):
 				current_template['meta'][metafield.lower()] = meta_index[n][int(composition[n+2])]
+			current_template['meta']['id'] = composition[0]
 
 			with open(f'../texts/{composition[0]}.txt', 'r') as textfile:
 				text = textfile.read()
@@ -57,4 +59,4 @@ with open('../meta/index.csv', 'r') as indf:
 			corpus.append(current_template)
 
 with open('../../dataset/corpus.json', 'w') as corpus_file:
-    corpus_file.write(json.dumps(corpus,ensure_ascii=False))
+    corpus_file.write(json.dumps(corpus,ensure_ascii=False,indent=2))
