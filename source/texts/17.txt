@@ -1,6 +1,7 @@
 $PALLAVI
 amunā bhūmidēvēnākāri kiṃ nanu
 puṇyamatidīna śarīrēṇa
+
 $CHARANAM
 mānitōyaṃ nanu sarōruhanābhēna
 bhāsurasuguṇārāmēṇa

@@ -30,7 +30,7 @@
           "taka dhinn, kiṭatak, dhiṃ takiṭ, tak, tak tathōm"
         ],
         [
-          "padmanābh tumhārī līlā kyākahūṃ mē sāṃvarō",
+          "padmanābh tumārī līlā kyākahūṃ mē sāṃvarō",
           "tāp saṃkaṭ śaraṇē yā sāhamārōtuṃharō"
         ]
       ]
@@ -318,7 +318,7 @@
         ],
         [
           "gāv gāv jan maṅgal gāvat dēvan bajāyō",
-          "rām rāvaṇ mārē, adur sab mārē, rāj vibhīṣaṇ pāyō"
+          "rām rāvaṇ mārē, asur sab mārē, rāj vibhīṣaṇ pāyō"
         ],
         [
           "māt kausalyā karat ārati nij man bāññcit pāyō",
@@ -742,6 +742,508 @@
           "kanattoru tuyar neñcakamatil vaḷarttīṭunnu",
           "kanivoṭu ni cemmē kalaviyāṭukayennō-",
           "ṭini malpiṭikaḷ veṭiññēṟaṟaṃ paṅkajanābha"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "20",
+      "name": "Ayi sakhi tapaṃ",
+      "type": "padaṃ",
+      "language": "malayāḷaṃ",
+      "ragam": "husēni",
+      "talam": "tripuṭa"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "āyisakhi tāpamayyō sahiyā ñān"
+        ]
+      ],
+      "anupallavi": [
+        [
+          "priyamiha kupitaṃ mē prīṇaya bata nī tān"
+        ]
+      ],
+      "charanam": [
+        [
+          "śītabhānuvennu śiva śiva śaśadharan kātarākṣi bālikē kalitanāyennāl",
+          "ātapamatupōlē hanta tāpavumēki ",
+          "vītamōdayāyatuṃ vidhimukhi paṇi collān"
+        ],
+        [
+          "pāriṭattilokkavē bāṇamadu koṇṭallō",
+          "vīranmāreyunnu vidyullatāṅgi",
+          "nērettāru guṇanilayanen kaṇavanmāṃ",
+          "cāruguṇattāl tanne cati ceyunnitō dhīmān"
+        ],
+        [
+          "śaṅkaveṭiññuḷḷil cāṭutara vacasā",
+          "sankaṭaṃ priyanoṭu sakalaṃ mē collē",
+          "engaloru karuṇa eṅkilō viravoṭu paṅkajanābhāntikē bhāmini pōka nītān"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "21",
+      "name": "ayyayyō kintu",
+      "type": "padaṃ",
+      "language": "malayāḷaṃ",
+      "ragam": "nādanāmākriya",
+      "talam": "tripuṭa"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "ayyayyō kintu ceyyāvū kāmini ñānayyayyō"
+        ]
+      ],
+      "anupallavi": [
+        [
+          "mayyudāsīnataykku mama kāntanentu kāraṇaṃ?"
+        ]
+      ],
+      "charanam": [
+        [
+          "maṇimañcatalē bata mañjuḷōtsaṅgamattil",
+          "praṇayamōṭirutti māṃ prāṇanāthan",
+          "maṇamiyaluṃ mullamālika paricoṭe-",
+          "nnaṇicikuramatin mēlaṇiññatu maṟannitō!"
+        ],
+        [
+          "kumudapati kiraṇaṃ koṇṭu vilasunnoru",
+          "ramaṇīyataraharmyē rasamōṭavan",
+          "kamalasāyakakēḷi kanivoṭu ceytatu-",
+          "mamalaguṇanilayanakamatil maṟannitō"
+        ],
+        [
+          "naḷinākṣi śrīpadmanābhanōṭitu nēraṃ",
+          "vaḷarummāmaka śōkaṃ vada bālikē",
+          "iḷataḷiroḷigātri icconna vacanaṃ nī",
+          "kaḷiyenniha karuti kaḷayāyka kālaṃ"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "22",
+      "name": "bājat muraḷī",
+      "type": "bhajan",
+      "language": "hindī",
+      "ragam": "paṭdīp",
+      "talam": "bilandi"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bājat muraḷī murārī sundar jamunā kinārē",
+          "rāsraṇg gvāl- bāl- saṅg madan pyārē"
+        ]
+      ],
+      "anupallavi": [],
+      "charanam": [
+        [
+          "ṭīk bhāl prēm jāl lasat jaisē candrabāl dhārō",
+          "saṃvarō dayāviśāl mukt māl dharē"
+        ],
+        [
+          "dēv band pad mukundmōhanō ānand vr̥nd",
+          "gōpikā cakōr-cand nand kē dulārē"
+        ],
+        [
+          "kōṭkāntan lalām tīn lōk nāth śyāṃ",
+          "gāvat śruti jākē nām bhakt kāntārē"
+        ],
+        [
+          "tān mān sarasa vān bīc bīc madhuragān",
+          "śrīharī kr̥pā nidhān danu jamān hārō"
+        ],
+        [
+          "gēparup! duritakupa gaman tāp har! pratāp!",
+          "pāparup timiradīp śrī kalāp nyārē."
+        ],
+        [
+          "man umaṅg bharē kuraṅg, sur-narēś-muni- vihaṅg",
+          "mōhat śrī padmanābh bhāv su tumarē"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "24",
+      "name": "bajat badhayi",
+      "type": "bhajan",
+      "language": "hindī",
+      "ragam": "gauri",
+      "talam": "ādi"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bājat badhāyī nagarī raghurāyī"
+        ]
+      ],
+      "anupallavi": [],
+      "charanam": [
+        [
+          "dhanuṣ bāṇ ulāvē lakṣmaṇ thāḍhē",
+          "nērī tribhuvan kē sukhdāyi"
+        ],
+        [
+          "sarjū tīr vihāri ratipati kē sam",
+          "chāyī janak sutā kē pasahāyī"
+        ],
+        [
+          "padmanābh hamārō śaraṇ caraṇ tumārō",
+          "phaṇivar kē parśāyī"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "25",
+      "name": "bansi vālēna",
+      "type": "khayāl",
+      "language": "hindī",
+      "ragam": "mōhanaṃ",
+      "talam": "ādi"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "baṃsivālēna man mōhā"
+        ]
+      ],
+      "anupallavi": [],
+      "charanam": [
+        [
+          "bōlī bōlē mīṭhi lāgē",
+          "dar dar umaṅg karāvē"
+        ],
+        [
+          "bēṇan bājē tān gāvē nisdin",
+          "gōpiyān rījhāvē"
+        ],
+        [
+          "sāṃvarō raṅg mōhanī ang sumaraṇ tankī bhulāvē"
+        ],
+        [
+          "kāḷindī kē tīr ṭhāḍhē ",
+          "mōhan bāṃsuri bajāvē"
+        ],
+        [
+          "padmanābh prabhu dīna bandhu",
+          "sur nar caraṇ manāvē"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "26",
+      "name": "bhāsurāṅgi bālē",
+      "type": "padaṃ",
+      "language": "malayāḷaṃ",
+      "ragam": "sāvērī",
+      "talam": "tripuṭa"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bhāsurāṅgi bālē madanāturayāyi ñān",
+          "pāramuḻalunnēnayyō"
+        ]
+      ],
+      "anupallavi": [
+        [
+          "vāsavōpala kōmaḷāṅganambujanābhan",
+          "vañcanayenniyē vannu puṇarāññu"
+        ]
+      ],
+      "charanam": [
+        [
+          "taruṇīmaṇī niśiyil śiva śiva",
+          "paraṃ tignmakiraṇanudiccīṭumō",
+          "smarasāyakamokkavē sumamayamennu lōka-",
+          "ruraceyyunnatuṃ kaḷiyō",
+          "aruṇa pallavadhāri paricoṭu mama",
+          "varanarikil vannu sahasā",
+          "sarasaṃ puñciri tūki svairaṃ ceyta līlakaḷ",
+          "sakalavumayi maṟannō matpriyasakhi"
+        ],
+        [
+          "kāmane vellunna kaṇavantanṯe rūpaṃ",
+          "kāmamanudinavuṃ ñan",
+          "yāminikaḷil nidrayil kāṇumuṇarumpōḷ",
+          "yātanāmatumentayyō",
+          "kāmukaneppiriññu vāḻunnoru dinavuṃ",
+          "kalpasamamahō mama tāmarasamamukhi mē",
+          "tāpamakhilaṃ tīrppān",
+          "tāmasaṃ dayitannentē matpriyasakhi"
+        ],
+        [
+          "munnamenuilirunna mamata kuṟanññanyayil",
+          "mōdaṃ pūṇṭu vasikkayō",
+          "munnil maruvunnoru",
+          "maṭavarkulaṅṅaḷil",
+          "mama bhāgyamīvidhamō",
+          "kannal miḻiyōmalē virahavāridhiyatil",
+          "khinnayāyi muḻukīṭunnēn",
+          "pannagaśayananāṃ me prāṇanāthanōṭāśu",
+          "cennucolluka mē tāpaṃ matpriya sakhi"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "27",
+      "name": "bhāvayāminanda",
+      "type": "kīrtanaṃ",
+      "language": "saṃskr̥taṃ",
+      "ragam": "śrī",
+      "talam": "rūpaka"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bhāvayāmi nandakumāraṃ"
+        ]
+      ],
+      "anupallavi": [
+        [
+          "bhāvukadānanipuṇa sarōruhamakhila-",
+          "dēvamunijanavinuta divya suguṇanivāsaṃ"
+        ]
+      ],
+      "charanam": [
+        [
+          "muraḷīgānarasikamati nīlaṃ",
+          "vrajavanitāmōhakamahata śiśupālaṃ",
+          "taraṇikōṭi madaśamana varakirīṭadharamakhila-",
+          "śaraṇamātmavadanacārimavijita sōmaṃ"
+        ],
+        [
+          "vimalasūnagaṇa surabhikēśaṃ",
+          "paramadayā vidhuta nijajana bhavapāśaṃ",
+          "yamunākēḷiparamamala yādava kulabhūṣaṇaṃ",
+          "kamalabāṇajanakamatikāntaṃ pītaruci vasanaṃ"
+        ],
+        [
+          "adharajitabimba phalaśōbhaṃ",
+          "gaḷa vidhr̥tahāramiha śrīpadmanābhaṃ",
+          "madhukaiṭabhamukha danujamardana caturaṃ",
+          "anaghamadharīkr̥ta mauktika hāsamurubhāsaṃ"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "29",
+      "name": "bhāvayēgopālaṃ",
+      "type": "kīrtanaṃ",
+      "language": "saṃskr̥taṃ",
+      "ragam": "puśpalatikā",
+      "talam": "rūpaka"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bhāvayē gōpabālaṃ bhuvanatrayapālaṃ"
+        ]
+      ],
+      "anupallavi": [
+        [
+          "navajaladharanīlaṃ nītirōdhigaṇakālaṃ",
+          "pāvanataraśīlaṃ padmanābhamamalaṃ"
+        ]
+      ],
+      "charanam": [
+        [
+          "kuvalayagarbhadaḷa kamanīyanētraśōdi",
+          "bhāvakadanaharabhāsuratarāpāṅgaṃ",
+          "dēvanikaracāru dēdīpyamānamakuṭāti",
+          "vilasitāruṇa tāmarasacaraṇaṃ"
+        ],
+        [
+          "cāmīkaruciracāruvasanadharaṃ",
+          "sumukhakāntinindita śāradarōhiṇīśaṃ",
+          "kāmakōṭimadahara kōmaḷataragātraṃ",
+          "kamalajamadahāraṃ karipuṅgavayānaṃ"
+        ],
+        [
+          "kāḷiyaphaṇaraṅgaṃ kaṃsadaḷanacaṇaṃ",
+          "kāḷindīdivyapuḷina kr̥tarāsapramuditaṃ",
+          "sulaḷitamaṇihāraśōbhi cārukandharaṃ",
+          "valasudanamukhasuravandyapādasarōjaṃ"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "30",
+      "name": "bhāvayē padmanābhaṃ",
+      "type": "kīrtanaṃ",
+      "language": "saṃskr̥taṃ",
+      "ragam": "madhyamāvati",
+      "talam": "ādi"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bhāvayē padmanābhamihāniśaṃ",
+          "bhavyaguṇanilayaṃ"
+        ]
+      ],
+      "anupallavi": [
+        [
+          "dēvamuniśaraṇaṃ dīnajānabharaṇaṃ",
+          "bhāvukavitaraṇaṃ paṅkajacaraṇaṃ",
+          "pāvanādbhutatarātma caritraṃ",
+          "pāpajāla ghanasāla lavitraṃ",
+          "sēvakāśaya payōruhamitraṃ",
+          "cinmayaṃ nayanajita śatapatraṃ"
+        ]
+      ],
+      "charanam": [
+        [
+          "hēmavirājita divyakrīṭaṃ",
+          "kōmaḷa mr̥gamada bindulalāṭaṃ",
+          "bhīmasamarabhuvi nikr̥ttaniśāṭaṃ",
+          "bhūmibharāsura vanhīkr̥pīṭaṃ",
+          "kaminījana manōhararūpaṃ",
+          "khaṇḍitākhila carācara tāpaṃ",
+          "kamadaṃ sukr̥tahīna durāpaṃ",
+          "kamrahārakaṭakādi kalāpaṃ"
+        ],
+        [
+          "vāraṇaśōkapayōda samīraṃ",
+          "vāridaruciratarābha śarīraṃ",
+          "mārajanakamambhōdhi gabhīraṃ",
+          "mānyatara sujanasēvyamudāraṃ",
+          "śrīrasārucirakēḷivilāsaṃ",
+          "kṣīrasāgaraśayaṃ mr̥du hāsaṃ",
+          "ghōraghōra bhavatāpanirāsaṃ",
+          "kundanindaka radāmalapāsaṃ"
+        ],
+        [
+          "vāsavamukhasurasannuta līlaṃ",
+          "bhāsura kanakamadāpaha cēlaṃ",
+          "dāsajananivahakalpaka sālaṃ",
+          "tāpasamānasakalpita khēlaṃ",
+          "vāsarēśaśata śōbhirathāṅgaṃ",
+          "dāsamāna khagarāja turangaṃ",
+          "vyāsa arṇita mahatvamabhaṅgaṃ",
+          "vyaktapūrṇa karuṇōdyadapāṅgaṃ"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "35",
+      "name": "bhayi lō piyā",
+      "type": "khayāl",
+      "language": "hindī",
+      "ragam": "suruṭṭi",
+      "talam": "ādi"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bhayi lō piyācāndani rāt ab rahiyē mōrē sāth,"
+        ]
+      ],
+      "anupallavi": [],
+      "charanam": [
+        [
+          "bijari sē pīt ḍulāvuṃ bhuj mē bhujāhi milāvuṃ",
+          "sab phul hār banāvuṃ man bhar bhar bhūsaṇ pāvuṃ"
+        ],
+        [
+          "tan mō abīr lagāvuṃ aṅgiyā kē kōr khulāvuṃ",
+          "din kē viyōg bujhāvuṃ tōsē cunāri hamāri raṅgāvuṃ"
+        ],
+        [
+          "jaisē tr̥khā sēv payyā pāvē sadā duḥkh saiyyāṃ",
+          "aisē tavuṃ mōrē bhayyā tum ḍarō piyā gal baiyā"
+        ],
+        [
+          "kōn khabaṟ mō levayyā hōvē nahi sukh daiyyā",
+          "sādhu ke hit mē rahayyā padmanābh prabhu mō balaiyyā"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "36",
+      "name": "bhajabhajamānasa",
+      "type": "upākhyanaṃ",
+      "language": "saṃskr̥taṃ",
+      "ragam": "sindhubhairavi",
+      "talam": "ādi"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bhaja bhaja mānasa harimanavarataṃ",
+          "bhaktaparāyaṇamatiśubha caritaṃ"
+        ]
+      ],
+      "anupallavi": [],
+      "charanam": [
+        [
+          "śukasanakādimunīśvaravinutaṃ",
+          "jagatisamastacarācara vitataṃ"
+        ],
+        [
+          "jahi dhanadārasutādiṣu rāgaṃ",
+          "svapnasamēṣu hi mamatāracitaṃ"
+        ],
+        [
+          "paṅkajanābhamanantapurēśaṃ",
+          "pannagaparivr̥ḍha māñcavilasitaṃ"
+        ]
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": "37",
+      "name": "bhajasi na kiṃ",
+      "type": "upākhyanaṃ",
+      "language": "saṃskr̥taṃ",
+      "ragam": "yamunākalyāṇi",
+      "talam": "ādi"
+    },
+    "sahityam": {
+      "pallavi": [
+        [
+          "bhajasi na kiṃ bata kamalēśaṃ"
+        ]
+      ],
+      "anupallavi": [],
+      "charanam": [
+        [
+          "aja bhava vāsava makuṭa virājita-",
+          "maṇikiraṇāñcita padadēśaṃ"
+        ],
+        [
+          "kalayasi nō kimu muhurati śithalaṃ",
+          "dhanarahitaṃ dayita? nivēśaṃ"
+        ],
+        [
+          "priyasakhamāśraya sarasijanābhaṃ",
+          "dāsyati sa mudā bhavatē śaṃ"
         ]
       ]
     }

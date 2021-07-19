@@ -1,8 +1,10 @@
 $PALLAVI
 āñjanēya raghurāmadūta mahitānubhāva pāhi
+
 $ANUPALLAVI
 kuñjaravarēṇyāyutasattva
 surañjitāmaramunīśvara santataṃ
+
 $CHARANAM
 dinakarabhairavaśaiśavalīla
 dīptivinirjitakañcanaśaila
@@ -12,6 +14,7 @@ janakasutādhivimōcanalōla
 jambumālikhalaniśicarakāla
 vanadhitaraṇacaṇanijalāṅgūla-
 vahnidagdhalañkānagara
+
 $CHARANAM
 paramabhayānakasaṅgaradhīra
 prabalajavayutasamīrakumāra
@@ -21,6 +24,7 @@ suranarakinnaranutaguṇavāra
 sūryagr̥hītapadāgamasāra
 sarasakadaḷivipinavihāra
 caṇḍasiṃhikādaḷanānupāraṃ
+
 $CHARANAM
 vimalamahauṣadhiśailānayana
 viśrutavirya supāṭalanayana

@@ -1,12 +1,15 @@
 $PALLAVI
 abadh sukhadāyī ab bājē badhāyī
+
 $CHARANAM
 ratan siṃhāsan kē par raghupati
 sītāsahit suhāyō
 rām bharat sumitrānandan ṭhāḍhē cāmar catur ḍulāyō
+
 $CHARANAM
 gāv gāv jan maṅgal gāvat dēvan bajāyō
-rām rāvaṇ mārē, adur sab mārē, rāj vibhīṣaṇ pāyō
+rām rāvaṇ mārē, asur sab mārē, rāj vibhīṣaṇ pāyō
+
 $CHARANAM
 māt kausalyā karat ārati nij man bāññcit pāyō
 rām padmanābh prabhu, phaniparaśayī tribhuvan sukh kari āyō

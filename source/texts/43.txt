@@ -1,9 +1,11 @@
 $PALLAVI
 bhōgīndra śāyinaṃ purukuśaladāyinaṃ
 puruṣaṃ śāśvataṃ kalayē
+
 $ANUPALLAVI
 vāgīśa gaurīśa vāsavādyamarapari-
 vārādivanditapadaṃ padmanābhaṃ
+
 $CHARANAM
 kṣiravārannidhiśvētāntarīpadavacitramaṇi-
 -->saudhāsthitaṃ
@@ -13,6 +15,7 @@ surabhāsura sudarśana nandaka pramukha śōbhanāyudha
 -->sēvitaṃ
 śrīrasākarasarōjāmr̥ditapādavanditārujana
 -->bharaṇōdytaṃ padmanābhaṃ
+
 $CHARANAM
 parama bhaktōttama divākarayanīndra kr̥ta guru puṇya
 -->vasudhāgataṃ
@@ -22,6 +25,7 @@ paripujanārtha sāḷagrāma haraṇāttatara yōgikara
 -->vāritaṃ
 tvaritānuyāna yatikaruṇā kulānanta purapāda-
 -->pādyāsitaṃ padmanābhaṃ
+
 $CHARANAM
 kalitanuta sanyāsi bhajanānuguṇa vihita-
 -->sulaḷitākāramahitaṃ
@@ -31,6 +35,7 @@ kalaśōdbhavānpita mahēndra trikutavaramalayā-
 calēndra vinutaṃ
 khaladamana vañci mārttāṇḍavarmmā kalita kāñcana-
 vimānalasitaṃ padmanābhaṃ
+
 $CHARANAM
 aruṇābha maṇimakuṭa makarakuṇḍala tārahāra kaustubha-
 -->bhūṣitaṃ
